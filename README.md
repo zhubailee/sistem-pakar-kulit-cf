@@ -46,7 +46,7 @@ Aplikasi Sistem Pakar Penyakit Kulit ini dibangun menggunakan metode Certainty F
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau hubungi kami melalui [Instagram](https://www.instagram.com/yoho_hohooooo) atau [Saweria](https://saweria.co/zhubailee).
 
 ## Lisensi
-Aplikasi ini dilisensikan di bawah [Apache-2.0]. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
+Aplikasi ini dilisensikan di bawah Apache-2.0. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 ---
 
