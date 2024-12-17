@@ -53,3 +53,13 @@ Aplikasi ini dilisensikan di bawah Apache-2.0. Lihat file [LICENSE](LICENSE) unt
 Terima kasih telah menggunakan aplikasi Sistem Pakar Penyakit Kulit ini! Jangan ragu untuk menghubungi kami jika ada pertanyaan atau masukan.
 
 
+berikut tampilannya:
+## Halaman Home
+![Screenshot 2024-12-17 141013](https://github.com/user-attachments/assets/75800e3b-98a7-4dd7-81a2-a84ad927bf3f)
+
+## Admin
+![Screenshot 2024-12-17 141118](https://github.com/user-attachments/assets/4e19ae31-375b-490d-80c5-55897c0042f0)
+
+## User
+![Screenshot 2024-12-17 141219](https://github.com/user-attachments/assets/95161961-8003-4ce8-98dd-617c620af275)
+
