@@ -1,1 +1,0 @@
-# sistem-pakar-kulit-cf
