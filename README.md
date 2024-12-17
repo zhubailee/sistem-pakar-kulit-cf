@@ -10,11 +10,11 @@ Aplikasi Sistem Pakar Penyakit Kulit ini dibangun menggunakan metode Certainty F
 ## Instalasi
 1. Clone repository ini:
     ```bash
-    git clone https://github.com/username/repo-name.git
+    git clone https://github.com/zhubailee/sistem-pakar-kulit-cf
     ```
 2. Masuk ke direktori project:
     ```bash
-    cd repo-name
+    cd sistem-pakar-kulit-cf
     ```
 3. Install dependencies menggunakan Composer:
     ```bash
