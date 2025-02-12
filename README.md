@@ -43,7 +43,7 @@ Aplikasi Sistem Pakar Penyakit Kulit ini dibangun menggunakan metode Certainty F
 3. Klik tombol "Diagnosa" untuk mendapatkan hasil diagnosa penyakit kulit beserta tingkat kepastian (certainty factor).
 
 ## Kontribusi
-Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau hubungi kami melalui [Instagram](https://www.instagram.com/yoho_hohooooo) atau [Saweria](https://saweria.co/zhubailee).
+Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau hubungi kami melalui [Instagram](https://www.instagram.com/zhu.code) atau [Saweria](https://saweria.co/zhubailee).
 Kunjungi juga [Blog saya](https://zhucode.wordpress.com)
 follow juga [tiktok saya](tiktok.com/nanazhu231124)
 ## Lisensi
